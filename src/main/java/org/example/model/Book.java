@@ -1,8 +1,8 @@
 package org.example.model;
 
 import org.example.model.aux.RegularEntity;
+import org.springframework.stereotype.Component;
 
-import javax.persistence.Column;
 import javax.persistence.Entity;
 
 
